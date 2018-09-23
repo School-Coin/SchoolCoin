@@ -4,7 +4,7 @@
 
 #pragma once
 
-#include "CryptoNoteConfig.h"
+#include <config/CryptoNoteConfig.h>
 
 /* Make sure everything in here is const - or it won't compile! */
 namespace WalletConfig
@@ -16,7 +16,7 @@ namespace WalletConfig
     const std::string ticker = "SCC";
 
     /* The filename to output the CSV to in save_csv */
-    const std::string csvFilename = "SCC_transactions.csv";
+    const std::string csvFilename = "transactions.csv";
 
     /* The filename to read+write the address book to - consider starting with
        a leading '.' to make it hidden under mac+linux */
@@ -26,7 +26,7 @@ namespace WalletConfig
     const std::string daemonName = "SchoolCoind";
 
     /* The name to call this wallet */
-    const std::string walletName = "SCCwallet";
+    const std::string walletName = "zedwallet";
 
     /* The name of service/walletd, the programmatic rpc interface to a
        wallet */
