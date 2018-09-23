@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/42725019/45925147-d880fe80-bec4-11e8-8ec3-4a58ec75bb0c.png)
 
 
-#### SCC Master build Status - APP_VER_BUILD 0.8.4.1276
+#### SCC Master build Status - Build v0.8.4.1276
 
 [![Build Status](https://travis-ci.org/turtlecoin/turtlecoin.svg?branch=master)](https://travis-ci.org/turtlecoin/turtlecoin)
 [![Build status](https://ci.appveyor.com/api/projects/status/an6je6l48eawteyg?svg=true)](https://ci.appveyor.com/project/RocksteadyTC/turtlecoin)
