@@ -168,7 +168,7 @@ const char     P2P_NET_DATA_FILENAME[]                       = "SchoolCoinp2psta
 const char     MINER_CONFIG_FILE_NAME[]                      = "SCCminer_conf.json";
 } // parameters
 
-const char     CRYPTONOTE_NAME[]                             = "SchoolCoind";
+const char     CRYPTONOTE_NAME[]                             = "SchoolCoin";
 
 const uint8_t  TRANSACTION_VERSION_1                         =  1;
 const uint8_t  TRANSACTION_VERSION_2                         =  2;
